@@ -1,3 +1,3 @@
 function forLoop(array){
-  for var 
+  for (var i=0
 }
